@@ -1,0 +1,4 @@
+Prueba de Ejercicio 2
+Sigo probando
+si escribo EOF se depe de parar
+vamos a probarlo
